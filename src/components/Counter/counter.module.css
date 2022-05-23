@@ -1,3 +1,9 @@
 .counter {
   /* TODO */
+  text-align: center;
+  margin-top: auto;
+}
+
+.one{
+  background-color: blue;
 }
