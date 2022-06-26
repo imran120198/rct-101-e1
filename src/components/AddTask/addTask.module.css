@@ -1,4 +1,6 @@
-.addTask {
-  /* Sample */
-  margin: auto;
+.todoForm{
+  border: 1px solid green;
+  display: flex;
+  width: 100%;
+  text-align: center;
 }
